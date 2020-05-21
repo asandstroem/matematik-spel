@@ -1,2 +1,6 @@
 # matematik-spel
-Simpelt spel med addition.
+Simple game with only addition.
+
+Pictures
+## Play activity
+
