@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Matematikspelet av Anton</string>
+    <string name="welcome_text">Matematikspelet!</string>
+    <string name="play_button">Spela</string>
+    <string name="start_button">Starta</string>
+    <string name="score_button">Poäng</string>
+    <string name="help_button">Hjälp</string>
+    <string name="help_text">Om Matematikspelet</string>
+    <string name="help_description">Spelet går ut på att spelaren får två tal som ska adderas,
+    spelaren ska sedan skriva in svaret i svarsrutan under.\nFör varje rätt svar ges 1 poäng.
+    \nI Poäng-menyn går det att se hur många poäng som samlats. </string>
+    <string name="play_text_first">+</string>
+    <string name="play_text_second">=</string>
+    <string name="answer">Svar:</string>
+    <string name="svara">Svara</string>
+    <string name="current_points">Du har:</string>
+    <string name="reset">Nollställ poäng.</string>
+
+</resources>
